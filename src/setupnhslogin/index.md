@@ -1,5 +1,6 @@
 ---
 title: How to set up NHS login
+shorttitle: Set up
 tags: "categories"
 subtitle: Find out what NHS login is, how to set one up and where you can use it.
 category: setupnhslogin
